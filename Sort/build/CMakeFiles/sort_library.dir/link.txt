@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc lib/libsort_library.a CMakeFiles/sort_library.dir/src/bubble_sort.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib lib/libsort_library.a

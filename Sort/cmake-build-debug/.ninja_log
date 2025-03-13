@@ -1,0 +1,6 @@
+# ninja log v6
+1	31	1741883147521211838	build.ninja	df23d88489861466
+0	19	1741883147527630776	CMakeFiles/sort_library.dir/src/bubble_sort.c.o	535dfcaf1e7c2f93
+0	20	1741883147527886319	CMakeFiles/sort_app.dir/src/main.c.o	a81a2f7335956cf5
+19	34	1741883147546441882	lib/libsort_library.a	2c6a12616dc468ba
+34	58	1741883147561177515	sort_app	e160df34d4bfa05c

@@ -1,0 +1,4 @@
+/Users/praoliwia/Desktop/Code/c/AGH/Sort/build/CMakeFiles/sort_library.dir
+/Users/praoliwia/Desktop/Code/c/AGH/Sort/build/CMakeFiles/sort_app.dir
+/Users/praoliwia/Desktop/Code/c/AGH/Sort/build/CMakeFiles/edit_cache.dir
+/Users/praoliwia/Desktop/Code/c/AGH/Sort/build/CMakeFiles/rebuild_cache.dir

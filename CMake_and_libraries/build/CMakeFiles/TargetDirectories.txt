@@ -1,0 +1,4 @@
+/Users/praoliwia/Desktop/Code/c/AGH/CMake_and_libraries/build/CMakeFiles/hello_library.dir
+/Users/praoliwia/Desktop/Code/c/AGH/CMake_and_libraries/build/CMakeFiles/hello_app.dir
+/Users/praoliwia/Desktop/Code/c/AGH/CMake_and_libraries/build/CMakeFiles/edit_cache.dir
+/Users/praoliwia/Desktop/Code/c/AGH/CMake_and_libraries/build/CMakeFiles/rebuild_cache.dir

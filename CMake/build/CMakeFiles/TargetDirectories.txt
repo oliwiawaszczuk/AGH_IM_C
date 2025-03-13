@@ -1,0 +1,3 @@
+/Users/praoliwia/Desktop/Code/c/AGH/CMake/build/CMakeFiles/hello_world.dir
+/Users/praoliwia/Desktop/Code/c/AGH/CMake/build/CMakeFiles/edit_cache.dir
+/Users/praoliwia/Desktop/Code/c/AGH/CMake/build/CMakeFiles/rebuild_cache.dir
