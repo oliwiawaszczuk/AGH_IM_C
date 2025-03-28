@@ -1,0 +1,3 @@
+// includy
+
+// nasze funkcje sin(x) itp...
